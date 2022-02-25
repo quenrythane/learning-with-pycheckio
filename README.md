@@ -1,3 +1,5 @@
 # learning-with-pycheckio
 
-<h1>Mój progres z pythonem na stronie py.checkio.org</h1>
+# Mój progres z pythonem na stronie py.checkio.org
+## Initiation 18/18
+## Home 15/20
